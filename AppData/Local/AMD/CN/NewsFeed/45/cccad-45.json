@@ -1,0 +1,201 @@
+[
+  {
+    "id": "advantage",
+    "title": "Learn More",
+    "lnk": "https://www.amd.com/en/gaming/advantage",
+    "tag": "notebook;desktop;radeon;child",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/advantage_bg.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/advantage_logo.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "9/14/2021 0:00"
+  },
+  {
+    "id": "wwz",
+    "title": "Learn More",
+    "lnk": "https://www.amd.com/en/gaming/world-war-z",
+    "tag": "notebook;desktop;radeon",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/world-war-z_bg.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/43aspect.png",
+    "TAG-PARTNER": "saber",
+    "LIVEDATE": "9/21/2021 0:00"
+  },
+  {
+    "id": "oneclick",
+    "title": "Overclock your AMD Ryzen 5000 Series CPU and Radeon 6000 Series GPU with one click!",
+    "lnk": "https://www.amd.com/en/technologies/radeon-software-performance",
+    "tag": "notebook;desktop;radeon;child",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/Overclocking_Banner 2200x900_BG.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/Overclocking_Banner 2200x900_LOGO.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "9/14/2021 0:00"
+  },
+  {
+    "id": "windows11",
+    "title": "Unleash the next era of PC gaming. Click to learn more.",
+    "lnk": "https://community.amd.com/t5/blogs/unleash-the-next-era-of-pc-gaming-with-amd-and-microsoft-windows/ba-p/488154",
+    "tag": "notebook;desktop;radeon;child",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/211003501-G_Windows_11_GTM_Toolkit_RadeonSoftwareBanner_2200x900.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/211003501-G_Windows_11_GTM_Toolkit_RadeonSoftwareBanner_900x600.png",
+    "TAG-PARTNER": "microsoft",
+    "LIVEDATE": "9/8/2021 0:00"
+  },
+  {
+    "id": "warframe",
+    "title": "Play Warframe Now",
+    "lnk": "https://www.amd.com/en/gaming/warframe",
+    "tag": "notebook;desktop;radeon",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/Warfame_bg.png",
+    "logo_img": "https://download.amd.com/cccads/images/43aspect.png",
+    "TAG-PARTNER": "digitalextremes",
+    "LIVEDATE": "3/16/2021 0:00"
+  },
+  {
+    "id": "fsr",
+    "title": "Get a boost in frames for your games. Learn More",
+    "lnk": "https://www.amd.com/en/technologies/radeon-software-fidelityfx-super-resolution",
+    "tag": "notebook;desktop;radeon;child",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/fsr_bg.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/fsr_logo.png",
+    "TAG-PARTNER": "AMD",
+    "LIVEDATE": "3/16/2021 0:00"
+  },
+  {
+    "id": "ReLivePro",
+    "title": "Learn more about Radeon Pro Software",
+    "lnk": "https://www.amd.com/en/technologies/radeon-pro-software",
+    "tag": "workstation;child",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/banner2-2020-driver.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/banner2-2020-driver.png",
+    "TAG-PARTNER": "AMD",
+    "LIVEDATE": "12/7/2016 0:00"
+  },
+  {
+    "id": "hzd",
+    "title": "Experience Aloy's entire legendary quest, Learn More ",
+    "lnk": "https://www.amd.com/en/gaming/horizon-zero-dawn",
+    "tag": "notebook;desktop;radeon",
+    "expires": "12/30/2022 23:59",
+    "background_img": "https://download.amd.com/cccads/images/570606_HZD_Banner_2200x900_Back_R1.png",
+    "logo_img": "https://download.amd.com/cccads/images/570606_HZD_Banner_900x600_LOGO_R1.png",
+    "TAG-PARTNER": "guerilla",
+    "LIVEDATE": "7/1/2019 08:00"
+  },
+  {
+    "id": "Workstation",
+    "title": "Click to learn more about Radeon Pro",
+    "lnk": "http://www.amd.com/Radeonpro",
+    "tag": "workstation;child",
+    "expires": "2/8/2099 15:41",
+    "background_img": "https://download.amd.com/cccads/images/banner1-2020-driver.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/banner1-2020-driver.png",
+    "TAG-PARTNER": "AMD",
+    "LIVEDATE": "2/8/2016 0:00"
+  },
+  {
+    "id": "Workstation2",
+    "title": "Discover Radeon ProRender",
+    "lnk": "https://www.amd.com/en/technologies/radeon-prorender",
+    "tag": "workstation;child",
+    "expires": "2/8/2099 15:41",
+    "background_img": "https://download.amd.com/cccads/images/banner3-prorender.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/banner3-prorender.png",
+    "TAG-PARTNER": "AMD",
+    "LIVEDATE": "10/28/2016 0:00"
+  },
+  {
+    "id": "farcry6",
+    "title": "Burn an evil regime to the ground with AMD.",
+    "lnk": "https://www.amd.com/en/gaming/far-cry-6",
+    "tag": "notebook;desktop;radeon",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/fc6-background.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/fc6-logo.png",
+    "TAG-PARTNER": "ubisoft",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "feedback",
+    "title": "Your feedback is important to us",
+    "lnk": "https://www.amdsurveys.com/se/5A1E27D26C60C805/lang/en-US/43b10085-cb7c-44ac-ac70-0dbcccf150ff_326939553",
+    "tag": "notebook;desktop;child",
+    "expires": "12/30/2025 09:00",
+    "background_img": "",
+    "logo_img": "",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "02/10/2021 09:00"
+  },
+  {
+    "id": "radeonryzen",
+    "title": "Get Yours",
+    "lnk": "https://www.amd.com/zh-hans/where-to-buy/ryzen-radeon-system-integrators",
+    "tag": "notebook;desktop;radeon",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/r-r_en.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/r-r_cn.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "boost",
+    "title": "How to enable Boost",
+    "lnk": "https://www.youtube.com/watch?v=va_CRJ67rcU",
+    "tag": "rsx_howto",
+    "expires": "12/30/2025 23:59",
+    "background_img": "http://i3.ytimg.com/vi/va_CRJ67rcU/maxresdefault.jpg",
+    "LIVEDATE": "12/2/2019 08:00"
+  },
+  {
+    "id": "antilag",
+    "title": "How to enable Anti Lag",
+    "lnk": "https://youtu.be/udlDUnY7a5I",
+    "tag": "rsx_howto",
+    "expires": "12/30/2025 23:59",
+    "background_img": "http://i3.ytimg.com/vi/udlDUnY7a5I/maxresdefault.jpg",
+    "LIVEDATE": "12/2/2019 08:00"
+  },
+  {
+    "id": "browser",
+    "title": "Browse the Web in Game with Radeon Software",
+    "lnk": "https://youtu.be/6gHYMangQB4",
+    "tag": "rsx_howto",
+    "expires": "12/30/2025 23:59",
+    "background_img": "http://i3.ytimg.com/vi/6gHYMangQB4/maxresdefault.jpg",
+    "LIVEDATE": "12/2/2019 08:00"
+  },
+  {
+    "id": "streaming",
+    "title": "Stream Your Wins to Social Media with Radeon Software",
+    "lnk": "https://youtu.be/8eFd-LhkSNg",
+    "tag": "rsx_howto",
+    "expires": "12/30/2025 23:59",
+    "background_img": "http://i3.ytimg.com/vi/8eFd-LhkSNg/maxresdefault.jpg",
+    "LIVEDATE": "12/2/2019 08:00"
+  },
+  {
+    "id": "amdlink",
+    "title": "Play Games Anywhere with AMD Link",
+    "lnk": "https://youtu.be/yRoy4i5MfTk",
+    "tag": "rsx_howto",
+    "expires": "12/30/2025 23:59",
+    "background_img": "http://i3.ytimg.com/vi/yRoy4i5MfTk/maxresdefault.jpg",
+    "LIVEDATE": "12/2/2019 08:00"
+  },
+  {
+    "id": "linklearnmore",
+    "title": "Learn More",
+    "lnk": "https://www.amd.com/en/technologies/radeon-software-amdlink",
+    "tag": "notebook;desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/amd-link_bg.png",
+    "logo_img": "https://download.amd.com/cccads/images/amd-link_logo.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  }
+]
